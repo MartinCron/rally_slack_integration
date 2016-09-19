@@ -6,7 +6,7 @@ from datetime import timedelta
 from pyral import Rally
 from slacker import Slacker
 
-slack = Slacker('xoxb-46845104738-Y1WwA7wk9Dw23wvD0Z10fiTC')
+slack = Slacker('your slack key')
 
 # Send a message to #integration-testing channel
 
